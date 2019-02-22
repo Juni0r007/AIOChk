@@ -11,13 +11,14 @@ Tenemos un grupo en facebook > https://www.facebook.com/groups/744289035951024/
 
 ## Instalación
 AIOChk [TERMUX]
- 
 Como todos preguntan "¿Qué es Termux?"
 Bueno *Termux* es un emulador de terminal linux para android... lo mismo que en la pc pero mas barato.... [Termux está en la 
 play store (gratis)]
 
 > Hay que tener una vpn (obligatorio) que cada vez que saquemos cuentas de facebook -solo 
 facebook-.
+
+Hay que tener un combo [Nulled Foro (o otros foros/paginas) para Descargar combos] (deben de registrarse y ya) Tambien el Es File Explorer para encontrar la ruta del archivo.
 
 Una ves descargado TERMUX y el AIOChk hay que actualizar paquetes... De Termux Y darle permiso a 
 termux en nuestro terminal...
