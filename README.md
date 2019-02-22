@@ -1,24 +1,23 @@
-# AIOChk v0.0.1 (prebeta)
- 
+# AIOChk v0.0.1
+
 ## Introducción
 
 Genera cuentas autopay "autopagables".Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/303634613546969/
+Tenemos un grupo en facebook > https://www.facebook.com/groups/744289035951024/
 
 ## Novedades
 > - Checkeo de version.
 
 ## Instalación
-
 AIOChk [TERMUX]
  
 Como todos preguntan "¿Qué es Termux?"
 Bueno *Termux* es un emulador de terminal linux para android... lo mismo que en la pc pero mas barato.... [Termux está en la 
 play store (gratis)]
 
-> Hay que tener una vpn (obligatorio) que cada vez que saquemos cuentas de facebook solo 
-facebook.
+> Hay que tener una vpn (obligatorio) que cada vez que saquemos cuentas de facebook -solo 
+facebook-.
 
 Una ves descargado TERMUX y el AIOChk hay que actualizar paquetes... De Termux Y darle permiso a 
 termux en nuestro terminal...
@@ -47,11 +46,11 @@ Antes de eso hay que darle permisos de ejecución al script
 
 8. php aio.php
 
-# uso
+# USO
 
-> Una vez terminado el proceso solo deberan eligir el numero de que cuenta 
+> Una vez terminado el proceso solo deberan elegir el número de que cuenta 
 
-(spoti,porhub,facebook,etc) quieren generar y despues solo deberan poner la ruta del combo
+(spotify,p0rnhub,facebook,etc) quieren generar y despues solo deberan poner la ruta del combo
 
 para generar las cuentas y solo tendran que esperar a que se generen las cuentas autopay.
 
