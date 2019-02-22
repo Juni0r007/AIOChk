@@ -24,34 +24,35 @@ termux en nuestro terminal...
   
 A los que no les pide actualizar paquetes ponen directo el 2do comando y aceptar (enter)...
 
-1. apt update&&apt upgrade -y
+> 1. apt update&&apt upgrade -y
 
-2. termux-setup-storage
+> 2. termux-setup-storage
 
 INSTALAMOS PHP y GIT para clonar el repositorio...
 
-3. pkg install php git -y
+> 3. pkg install php git -y
 
-4. git clone https://github.com/Juni0r007/AIOChk.git
+> 4. git clone https://github.com/Juni0r007/AIOChk.git
 
-5. ls
+> 5. ls
 
-6. cd AIOChk
+> 6. cd AIOChk
 
 Ejecutamos el archivo *.php
 
 Antes de eso hay que darle permisos de ejecución al script
 
-7. chmod +x *
+> 7. chmod +x *
 
-8. php aio.php
+> 8. php aio.php
 
 # Uso
 
 Ya instalado para ejecutar cada vez que abra Termuz solo pomer el comando:
 
 > cd AIOChk;php aio.php
-> Una vez terminado el proceso solo deberan elegir el número de que cuenta (spotify,p0rnhub,facebook,etc) quieren generar y despues solo deberan poner la ruta del combo para generar las cuentas y solo tendran que esperar a que se generen las cuentas autopay.
+
+Una vez terminado el proceso solo deberan elegir el número de que cuenta (spotify,p0rnhub,facebook,etc) quieren generar y despues solo deberan poner la ruta del combo para generar las cuentas y solo tendran que esperar a que se generen las cuentas autopay.
 
 Es obligatorio -por el momento- usar una vpn (solo facebook)
 
