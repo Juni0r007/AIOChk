@@ -4,7 +4,7 @@
 
 Genera cuentas autopay "autopagables".Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/305357633225806/
+Tenemos un grupo en facebook > https://www.facebook.com/groups/1175363389159546/
 
 ## Novedades
 > - Checkeo de version.
